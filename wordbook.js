@@ -2546,7 +2546,7 @@ var wordbook = {
     "endowment": "knack",
     "endure": "last",
     "endurance": "strength",
-    "enduring": "everabidibg",
+    "enduring": "everabiding",
     "enemy": "foe",
     "enemies": "foes",
     "energetic": "goey",
